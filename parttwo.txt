@@ -1,3 +1,7 @@
 This is sentence one with edits.
 
+This is the second sentence.
+
+This is the third sentence with edits.
+
 This is the fourth sentence.
